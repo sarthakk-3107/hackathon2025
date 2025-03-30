@@ -33,7 +33,6 @@ Whether you're a student, professional, or career switcher — this tool helps y
 ## 🛠️ Tech Stack
 
 - 🤖 **LLM**: `deepseek-ai/deepseek-llm-7b-chat` for conversation and understanding  
-- 🔗 **LangChain**: for LLM orchestration and dynamic prompts  
 - 🧠 **ChromaDB**: for fast and efficient vector similarity search  
 - 📄 **Resume Parser**: for skill extraction from user documents  
 - 🎯 **Matching Algorithm**: based on skill/domain relevance and career goals  
